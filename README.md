@@ -7,7 +7,7 @@ A simple Laravel-based Task Manager that allows users to create, view, edit, del
 Project Code: WST21-PM-2026-SF
 Student Name: Cyril Ann Paton-og
 Course & Year: BSIT - 2
-Database Used: MySQL
+Database Used: SQLite 
 
 ## Features
 
@@ -21,7 +21,7 @@ Database Used: MySQL
 
 * Laravel
 * PHP
-* MySQL
+* SQLite 
 * HTML
 * CSS
 
