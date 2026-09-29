@@ -34,7 +34,7 @@ SQLite
 
 The dashboard is the main page of the Task Manager. It allows users to view their tasks and access the available task actions.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](image/dashboard.png)
 
 ## How the System Works
 
